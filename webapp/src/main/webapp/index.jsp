@@ -12,7 +12,7 @@
     <br>
 
     <label for="Gmail"><b>Enter Gmail</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter Gmail" name="Gmail" id="Gmail" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
