@@ -11,7 +11,7 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Gmail</b></label>
+    <label for="Gmail"><b>Enter Gmail</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
