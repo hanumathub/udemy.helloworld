@@ -30,7 +30,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Good Practice for DevOps project by Shankar. THanks a lot. Iam very happy with project </h1>
+   <h1> Thankyou, Happy Learning. Good practice for DevOps. Thanks a lot shankar. </h1>
 
   
 </form>
